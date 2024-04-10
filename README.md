@@ -20,7 +20,7 @@ This is where you list how to get the project started. It typically just include
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/EronAdemi/html-css-assignment.git
+git clone https://github.com/EronAdemi/eComm-Frameworks.git
 ```
 
 2. Install the dependencies:
