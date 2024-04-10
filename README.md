@@ -1,6 +1,6 @@
 # MarketSquare | React Project
 
-![image](https://github.com/EronAdemi/html-css-assignment/assets/111318711/b8ff53aa-782b-489d-b105-ca4b6319cb95)
+![image](https://github.com/EronAdemi/eComm-Frameworks/blob/main/src/assets/wwwww.png)
 
 ## Description
 
